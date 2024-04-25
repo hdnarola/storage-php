@@ -1,5 +1,5 @@
 {
-    "name": "supabase/storage-php",
+    "name": "supabase-hdnarola/storage-php",
     "type": "library",
     "description": "Supabase Storage for PHP",
     "keywords": ["supabase","storage", "storage-php"],
